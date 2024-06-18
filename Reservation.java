@@ -22,6 +22,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  *
  * @author Houari
  */
+/**Reservation*/
 @Entity
 @Table(name = "reservation")
 @XmlRootElement
